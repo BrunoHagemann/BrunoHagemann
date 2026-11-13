@@ -14,6 +14,8 @@
 
 </div>
 
+Conta Git secundária: [![GitHub](https://img.shields.io/badge/GitHub-e34c26?style=flat-square&logo=github&logoColor=white)](https://github.com/BrunoHgemamuniz)
+
 <br/>
 
 Desenvolvedor focado em **Back-end, Inteligência Artificial e Bancos de Dados**. Estudante de Ciência da Computação 
